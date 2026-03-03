@@ -1,1 +1,5 @@
-qmdfldfhh 
+git push
+git commit
+git add <file>
+git pull
+git status
